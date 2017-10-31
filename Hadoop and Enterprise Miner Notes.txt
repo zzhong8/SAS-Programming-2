@@ -1,0 +1,57 @@
+Hadoop is a open source mockup of the Google File System
+
+- Hadoop is STRUCTURELESS data
+
+- can handle anything
+
+  - voice calls
+  - free text
+  - etc.
+
+- putting data into Hadoop is SUPERfast
+
+- challenge of Hadoop is finding everything
+  
+  - need to learn languages to parse out the mess
+    
+    - Mahout
+    - Pig
+    - Hive
+
+
+
+The big debate: R vs SAS vs Python
+
+- difference in languages is syntax
+  - depends in preference
+
+- but SAS has more mature tools to support certain business processes
+- and SAS has better customer/technical support
+
+- R and python have thriving user communities
+
+- also enterprise need
+
+
+
+
+The next version of SAS will integrate R and Python!!
+
+SAS 'studio' will use the best tool for each task
+
+e.g.
+
+Cognos for BI
+SPSS for basic analytics
+SAS for advanced analytics
+Tableau for data visualization
+etc.
+
+
+New area of SAS - cybersecurity
+
+e.g. If there have been 50000 failed logins in the last 30 seconds, we'd like to know this.
+
+
+
+Note: Decision Tree (and tree-based algorithms e.g. NP forest) can account for missing variables. For other predictive modelling algorithms you would probably want to impute missing values first (otherwise the entire observation would be ignored)

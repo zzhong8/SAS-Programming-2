@@ -1,0 +1,27 @@
+- Study Select conditional processing
+
+- Controlling output with OUTPUT statement, creating multiple Datasets
+
+- Drop/Keep statements and Dataset Options
+
+- Retain statement / Sum statement (Variable + expression)
+
+- By group processing (FIRST. and LAST. variables)
+
+- Reading raw data files with informats (Formatted input)
+
+- a few records of raw data and different input statements
+
+- Pointer and line control for the input buffer
+
+- Single trailing @
+
+- Character variables ... order of arguments, defaults
+
+- Substr on the left side
+
+- Lists in Numeric functions (of var -- ...
+
+- Input and put functions
+
+- Debugging with putlog statement
